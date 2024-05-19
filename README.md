@@ -11,3 +11,5 @@ copy this file in vscode
 copy your token here "INSERT_YOUR_TOKEN_BOT"
 
 open a terminal and run node index.js
+
+commande : +eerie @mention
